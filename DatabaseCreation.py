@@ -124,7 +124,7 @@ def load():
 	licenses = pd.read_csv(r'Data/Step 2 - Tables/licenses_table.csv')
 	other_names = pd.read_csv(r'Data/Step 2 - Tables/other_names_table.csv')
 
-	database = r'ChicagoFoodInspection.db'
+	database = r'Data/ChicagoFoodInspection.db'
 	conn = sqlite3.connect(database)
 	cursor = conn.cursor()
 	setup_database(cursor)
