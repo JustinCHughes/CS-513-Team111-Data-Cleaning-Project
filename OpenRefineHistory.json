@@ -5259,7 +5259,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "PLAYA DEL MAR, INC"
+        "to": "PLAY A DEL MAR, INC"
       },
       {
         "from": [
@@ -5665,15 +5665,6 @@
         "fromBlank": false,
         "fromError": false,
         "to": "FOODA - 180 N LASALLE"
-      },
-      {
-        "from": [
-          "SUBWAY # 26771",
-          "SUBWAY #267771"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "SUBWAY # 26771"
       },
       {
         "from": [
@@ -6208,15 +6199,6 @@
       },
       {
         "from": [
-          "SHAWARMA INN III",
-          "SHAWARMA INN II"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "SHAWARMA INN III"
-      },
-      {
-        "from": [
           "CLUB - 100",
           "CLUB-100"
         ],
@@ -6268,15 +6250,6 @@
         "fromBlank": false,
         "fromError": false,
         "to": "WINGSTOP"
-      },
-      {
-        "from": [
-          "PINKS CHILD CARE ACADEMY II",
-          "PINK'S CHILD CARE ACADEMY III"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "PINKS CHILD CARE ACADEMY II"
       },
       {
         "from": [
@@ -6394,15 +6367,6 @@
         "fromBlank": false,
         "fromError": false,
         "to": "K BUENA"
-      },
-      {
-        "from": [
-          "ANDY'S THAI KITCHEN III",
-          "ANDY'S THAI KITCHEN II"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "ANDY'S THAI KITCHEN III"
       },
       {
         "from": [
@@ -7369,15 +7333,6 @@
       },
       {
         "from": [
-          "STARBUCKS COFFEE #226",
-          "STARBUCKS COFFEE #2226"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "STARBUCKS COFFEE #226"
-      },
-      {
-        "from": [
           "WYNDHAM CHICAGO HOTEL",
           "WYNDHAM CHICAGO_HOTEL"
         ],
@@ -7531,15 +7486,6 @@
       },
       {
         "from": [
-          "ITSY BITSY PEOPLE PALACE II",
-          "ITSY BITSY PEOPLE PALACE III"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "ITSY BITSY PEOPLE PALACE II"
-      },
-      {
-        "from": [
           "SKYHIGH-101",
           "SKYHIGH - 101"
         ],
@@ -7618,15 +7564,6 @@
         "fromBlank": false,
         "fromError": false,
         "to": "B. H. LUNCH CATERING INC"
-      },
-      {
-        "from": [
-          "AVEC II",
-          "AVEC III"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "AVEC II"
       },
       {
         "from": [
@@ -7837,15 +7774,6 @@
       },
       {
         "from": [
-          "KLEIN'S BAKERY & CAFE II",
-          "KLEIN'S BAKERY & CAFE III"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "KLEIN'S BAKERY & CAFE II"
-      },
-      {
-        "from": [
           "SONNETS ACADEMY-RIVER NORTH",
           "SONNETS ACADEMY RIVER NORTH"
         ],
@@ -7897,15 +7825,6 @@
         "fromBlank": false,
         "fromError": false,
         "to": "WESLEY'S PLACE"
-      },
-      {
-        "from": [
-          "LSJ AFTER SCHOOL CENTER II",
-          "LSJ AFTERSCHOOL CENTER III"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "LSJ AFTER SCHOOL CENTER II"
       }
     ],
     "description": "Mass edit cells in column DBA Name"
@@ -7921,22 +7840,520 @@
     "edits": [
       {
         "from": [
-          "STARBUCKS COFFEE #229",
-          "STARBUCKS COFFEE #2229",
-          "STARBUCKS COFFEE#2229"
+          "SUBWAY SANDWICHES & SALADS",
+          "SUBWAY SANDWICHES & SALAD",
+          "SUBWAY SANWICHES & SALADS"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "STARBUCKS COFFEE #2229"
+        "to": "SUBWAY SANDWICHES & SALADS"
       },
       {
         "from": [
-          "STARBUCKS COFFEE #2223",
-          "STARBUCKS COFFEE #223"
+          "JAIHIND FOODS & VIDEO",
+          "JAIHINDS FOODS & VIDEO",
+          "JAIHNDS FOODS & VIDEO"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "STARBUCKS COFFEE #2223"
+        "to": "JAIHIND FOODS & VIDEO"
+      },
+      {
+        "from": [
+          "TANOR KOBOB INC.",
+          "TANOOR KABOB INC.",
+          "TANOOR KOBOB INC."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TANOR KOBOB INC."
+      },
+      {
+        "from": [
+          "DUNKIN DONUTS / BASKIN ROBBINS",
+          "DUNKIN DONUTS / BASKIN ROBINS",
+          "DUNKIN DOUNUTS / BASKIN ROBINS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DUNKIN DONUTS / BASKIN ROBBINS"
+      },
+      {
+        "from": [
+          "MARKET CREATIONS",
+          "MARKET CREATION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MARKET CREATIONS"
+      },
+      {
+        "from": [
+          "FON FON CHINESE CUISINE",
+          "FON FON CHINESE CUSINE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FON FON CHINESE CUISINE"
+      },
+      {
+        "from": [
+          "BRIDGEPORT COFEE",
+          "BRIDGEPORT COFFEE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BRIDGEPORT COFEE"
+      },
+      {
+        "from": [
+          "FONTANO'S SUB",
+          "FONTANO'S SUBS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FONTANO'S SUB"
+      },
+      {
+        "from": [
+          "DELICIAS MEXICANA RESTAURANT",
+          "DELICIAS MEXICANAS RESTAURANT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DELICIAS MEXICANA RESTAURANT"
+      },
+      {
+        "from": [
+          "DUNKIN DONUTS",
+          "DUNKIN DOUNUTS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DUNKIN DONUTS"
+      },
+      {
+        "from": [
+          "SUPERIOR NUT & CANDY CO., INC.",
+          "SUPERIOR NUT & CANDY CO.I INC."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SUPERIOR NUT & CANDY CO., INC."
+      },
+      {
+        "from": [
+          "CHEN'S CHINESE EXPRESS",
+          "CHEN'S CHINESES EXPRESS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHEN'S CHINESE EXPRESS"
+      },
+      {
+        "from": [
+          "JR'S BURRITOS SHACK",
+          "JR'S BURRITO SHACK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "JR'S BURRITOS SHACK"
+      },
+      {
+        "from": [
+          "GZN INFANT SUITE",
+          "GZN INFANT SUITS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GZN INFANT SUITE"
+      },
+      {
+        "from": [
+          "POPEYES FAMOUS FRIED CHICKEN",
+          "POPEYE FAMOUS FRIED CHICKEN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "POPEYES FAMOUS FRIED CHICKEN"
+      },
+      {
+        "from": [
+          "CARIBOU COFFEE CO. INC.",
+          "CARIBOU COFFE CO. INC."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CARIBOU COFFEE CO. INC."
+      },
+      {
+        "from": [
+          "SHARKS FISH & CHICKEN",
+          "SHARK FISH & CHICKEN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SHARKS FISH & CHICKEN"
+      },
+      {
+        "from": [
+          "ISHTAR MARKET",
+          "ISHTER MARKET"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ISHTAR MARKET"
+      },
+      {
+        "from": [
+          "ROYAL NUTRITON",
+          "ROYAL NUTRITION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ROYAL NUTRITON"
+      },
+      {
+        "from": [
+          "KINDERCARE LEARNING CENTERS",
+          "KINDERCARE LEARNING CENTER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "KINDERCARE LEARNING CENTERS"
+      },
+      {
+        "from": [
+          "TASTEE FREEZ",
+          "TASTEE FREEZE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TASTEE FREEZ"
+      },
+      {
+        "from": [
+          "SIAM NOODLES AND RICE",
+          "SIAM NOODLE AND RICE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SIAM NOODLES AND RICE"
+      },
+      {
+        "from": [
+          "QDOBA MEXICAN GRILL",
+          "QDOBA MEXICA GRILL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "QDOBA MEXICAN GRILL"
+      },
+      {
+        "from": [
+          "TACOS MARIO'S LIMITED",
+          "TACO MARIO'S LIMITED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TACOS MARIO'S LIMITED"
+      },
+      {
+        "from": [
+          "BORDERS BOOKS & MUSIC",
+          "BORDERS BOOK & MUSIC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BORDERS BOOKS & MUSIC"
+      },
+      {
+        "from": [
+          "MCDONALD'S RESTAURANTS",
+          "MCDONALDS'S RESTAURANTS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MCDONALD'S RESTAURANTS"
+      },
+      {
+        "from": [
+          "BABAS FAMOUS STEAK & LEMONADE",
+          "BABS FAMOUS STEAK & LEMONADE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BABAS FAMOUS STEAK & LEMONADE"
+      },
+      {
+        "from": [
+          "CAPTAIN HOOKS",
+          "CAPTAIN HOOK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CAPTAIN HOOKS"
+      },
+      {
+        "from": [
+          "TRIPLE A SERVICES, INC.",
+          "TRIPLE A SERVICE, INC."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRIPLE A SERVICES, INC."
+      },
+      {
+        "from": [
+          "SEASHELL RESTAURANT",
+          "SEASHELL RESTAURANTS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SEASHELL RESTAURANT"
+      },
+      {
+        "from": [
+          "PALETERIA AYUTLA",
+          "PALATERIA AYUTLA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PALETERIA AYUTLA"
+      },
+      {
+        "from": [
+          "WINDY CITY LIQUOR",
+          "WINDY CITY LIQUORS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WINDY CITY LIQUOR"
+      },
+      {
+        "from": [
+          "SAMMY'S RED HOTS",
+          "SAMMY'S RED HOT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SAMMY'S RED HOTS"
+      },
+      {
+        "from": [
+          "DOROTHY SUTTON BRANCH HEADSTART",
+          "DOROTHY SUTTON BRANCH HEADSTRT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOROTHY SUTTON BRANCH HEADSTART"
+      },
+      {
+        "from": [
+          "HAROLD'S CHICKEN SHACK",
+          "HAROLDS'S CHICKEN SHACK"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HAROLD'S CHICKEN SHACK"
+      },
+      {
+        "from": [
+          "CUPCAKE GANGSTERS",
+          "CUPCAKE GANGSTER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CUPCAKE GANGSTERS"
+      },
+      {
+        "from": [
+          "JENNY'S GOURMET RESTAURANT",
+          "JEANNY'S GOURMET RESTAURANT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "JENNY'S GOURMET RESTAURANT"
+      },
+      {
+        "from": [
+          "HIXSON POPCORN ENTERPRISE INC",
+          "HIXSON POPCORN ENTERPRISES INC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HIXSON POPCORN ENTERPRISE INC"
+      },
+      {
+        "from": [
+          "KABOB KING GRILL",
+          "KABAB KING GRILL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "KABOB KING GRILL"
+      },
+      {
+        "from": [
+          "MRS. T'S SOUTHERN FRIED CHICKEN",
+          "MS. T'S SOUTHERN FRIED CHICKEN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MRS. T'S SOUTHERN FRIED CHICKEN"
+      },
+      {
+        "from": [
+          "MILLENNIUM DOGS",
+          "MILLENIUM DOGS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MILLENNIUM DOGS"
+      },
+      {
+        "from": [
+          "REYNA DEL PALENQUE",
+          "REINA DEL PALENQUE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "REYNA DEL PALENQUE"
+      },
+      {
+        "from": [
+          "SWEET STATON",
+          "SWEET STATION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SWEET STATON"
+      },
+      {
+        "from": [
+          "BIRRIERIA AGUASCALIENTES",
+          "BIRRIERIA AQUASCALIENTES"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BIRRIERIA AGUASCALIENTES"
+      },
+      {
+        "from": [
+          "ANTOJITOS MAJICOS LA MICHOACANA",
+          "ANTOJITOS MAJICOS LA MICHOACAN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ANTOJITOS MAJICOS LA MICHOACANA"
+      },
+      {
+        "from": [
+          "REEF KITCHENS",
+          "REEF KITCHEN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "REEF KITCHENS"
+      },
+      {
+        "from": [
+          "PRESTIGE LIQUORS",
+          "PRESTIGE LUIQUORS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PRESTIGE LIQUORS"
+      },
+      {
+        "from": [
+          "STAND-UP BURGER",
+          "STAND-UP BURGERS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "STAND-UP BURGER"
+      },
+      {
+        "from": [
+          "LAKE SHORE SCHOOLS",
+          "LAKE SHORE SCHOOL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LAKE SHORE SCHOOLS"
+      },
+      {
+        "from": [
+          "HALSTED FOODS",
+          "HALSTED FOOD"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HALSTED FOODS"
+      },
+      {
+        "from": [
+          "SHARK FISH AND CHICKEN",
+          "SHARKS FISH AND CHICKEN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SHARK FISH AND CHICKEN"
+      },
+      {
+        "from": [
+          "SUPREME CATERING",
+          "SUPPREME CATERING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SUPREME CATERING"
+      },
+      {
+        "from": [
+          "JASMIN FOOD",
+          "JASMINE FOOD"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "JASMIN FOOD"
+      },
+      {
+        "from": [
+          "PRESENCE RESSURRECTION MEDICAL CENTER",
+          "PRESENCE RESURRECTION MEDICAL CENTER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PRESENCE RESSURRECTION MEDICAL CENTER"
+      },
+      {
+        "from": [
+          "SOUL VEGETERIAN EAST INCORPORATED",
+          "SOUL VEGETERAN EAST INCORPORATED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SOUL VEGETERIAN EAST INCORPORATED"
+      },
+      {
+        "from": [
+          "BEYOND BORDERS FUSION FOOD, LLC",
+          "BEYOND BORDERS FUSION FOODS LLC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BEYOND BORDERS FUSION FOOD, LLC"
+      },
+      {
+        "from": [
+          "LA MICHOACANA",
+          "LA MICHOACANAS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LA MICHOACANA"
       }
     ],
     "description": "Mass edit cells in column DBA Name"
@@ -8006,6 +8423,15 @@
       },
       {
         "from": [
+          "GROCERY STORE / GAS STATION",
+          "GAS STATION/ GROCERY STORE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GROCERY/GAS STATION"
+      },
+      {
+        "from": [
           "KIDS CAFE",
           "KIDS CAFE'"
         ],
@@ -8027,51 +8453,12 @@
     "edits": [
       {
         "from": [
-          "GROCERY STORE / GAS STATION",
-          "GAS STATION/ GROCERY STORE"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "GROCERY STORE / GAS STATION"
-      }
-    ],
-    "description": "Mass edit cells in column Facility Type"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "columnName": "Facility Type",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
           "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED",
           "MOBILE FROZEN DESSERTS DISPENSER-NON- MOTORIZED"
         ],
         "fromBlank": false,
         "fromError": false,
         "to": "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED"
-      },
-      {
-        "from": [
-          "FROZEN DESSERTS DISPENSER -NON MOTORIZED",
-          "FROZEN DESSERTS DISPENSER-NON-MOTORIZED"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "FROZEN DESSERTS DISPENSER -NON MOTORIZED"
-      },
-      {
-        "from": [
-          "GROCERY STORE/GAS STATION",
-          "GROCERY STORE / GAS STATION"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "GROCERY STORE/GAS STATION"
       },
       {
         "from": [
@@ -8174,15 +8561,6 @@
       },
       {
         "from": [
-          "POP-UP ESTABLISHMENT HOST-TIER II",
-          "POP-UP ESTABLISHMENT HOST-TIER III"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "POP-UP ESTABLISHMENT HOST-TIER II"
-      },
-      {
-        "from": [
           "1023 CHILDERN'S SERVICES FACILITY",
           "1023 CHILDERN'S SERVICE S FACILITY"
         ],
@@ -8206,7 +8584,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "GROCERY STORE/ RESTAURANT"
+        "to": "GROCERY/RESTAURANT"
       },
       {
         "from": [
@@ -8258,39 +8636,25 @@
     "edits": [
       {
         "from": [
-          "MOBILE FROZEN DESSERTS VENDOR",
-          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED",
-          "MOBILE FROZEN DESSERT VENDOR",
-          "MOBILE FROZEN DESSERT DISPENSER_NON MOTORIZED.",
-          "MOBILE FROZEN DESSERT DISP/NON-MOTORIZED",
-          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTOR"
+          "FROZEN DESSERTS DISPENSER -NON MOTORIZED",
+          "FROZEN DESSERTS DISPENSER-NON-MOTORIZED"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "MOBILE FROZEN DESSERTS VENDOR"
-      },
-      {
-        "from": [
-          "DAYCARE",
-          "DAY CARE 2-14",
-          "DAY CARE 1023",
-          "DAYCARE 1586"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "DAYCARE"
-      },
-      {
-        "from": [
-          "CHILDREN'S SERVICES FACILITY",
-          "1023 CHILDERN'S SERVICES FACILITY",
-          "1023-CHILDREN'S SERVICES FACILITY",
-          "CHILDERN'S SERVICES FACILITY"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "CHILDREN'S SERVICES FACILITY"
-      },
+        "to": "FROZEN DESSERTS DISPENSER-NON-MOTORIZED"
+      }
+    ],
+    "description": "Mass edit cells in column Facility Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Facility Type",
+    "expression": "value",
+    "edits": [
       {
         "from": [
           "COMMISSARY",
@@ -8321,15 +8685,6 @@
       },
       {
         "from": [
-          "NOT-FOR-PROFIT CLUB",
-          "NOT FOR PROFIT"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "NOT-FOR-PROFIT CLUB"
-      },
-      {
-        "from": [
           "CHURCH/SPECIAL EVENTS",
           "CHURCH/SPECIAL EVENT"
         ],
@@ -8348,6 +8703,15 @@
       },
       {
         "from": [
+          "ASSISTED LIVING",
+          "ASSISTED LIVING SENIOR CARE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSISTED LIVING"
+      },
+      {
+        "from": [
           "NURSING HOME",
           "1005 NURSING HOME"
         ],
@@ -8362,16 +8726,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "GAS STATION/STORE"
-      },
-      {
-        "from": [
-          "COFFEE",
-          "CAFE"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "COFFEE"
+        "to": "GROCERY/GAS STATION"
       },
       {
         "from": [
@@ -8477,6 +8832,29 @@
     "edits": [
       {
         "from": [
+          "CHILDREN'S SERVICES FACILITY",
+          "1023 CHILDERN'S SERVICES FACILITY",
+          "1023-CHILDREN'S SERVICES FACILITY",
+          "CHILDERN'S SERVICES FACILITY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHILDREN'S SERVICES FACILITY"
+      }
+    ],
+    "description": "Mass edit cells in column Facility Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Facility Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
           "HERBALIFE",
           "HERBAL LIFE"
         ],
@@ -8517,13 +8895,13 @@
       },
       {
         "from": [
-          "HERBAL LIFE SHOP",
-          "HERBALIFE/ZUMBA",
-          "HERBALIFE STORE"
+          "NUTRITION SHAKES",
+          "NUTRITION..SMOOTHIES/SHAKES",
+          "NUTRITION STORE"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "HERBAL LIFE SHOP"
+        "to": "NUTRITION SHAKES"
       },
       {
         "from": [
@@ -8542,6 +8920,24 @@
         "fromBlank": false,
         "fromError": false,
         "to": "LIVE POULTRY"
+      },
+      {
+        "from": [
+          "COOKING SCHOOL",
+          "COOKING CLASS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COOKING SCHOOL"
+      },
+      {
+        "from": [
+          "SUMMER FEEDING",
+          "SUMMER FEEDING PREP AREA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SUMMER FEEDING"
       },
       {
         "from": [
@@ -8568,7 +8964,7 @@
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "GROCERY & LIQUOR STORE"
+        "to": "GROCERY/LIQUOR STORE"
       },
       {
         "from": [
@@ -8602,6 +8998,15 @@
       },
       {
         "from": [
+          "MOBILE FROZEN DESSERTS VENDOR",
+          "MOBILE FROZEN DESSERT VENDOR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MOBILE FROZEN DESSERTS VENDOR"
+      },
+      {
+        "from": [
           "ROOFTOP",
           "ROOFTOPS"
         ],
@@ -8623,6 +9028,65 @@
     "edits": [
       {
         "from": [
+          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED",
+          "FROZEN DESSERTS DISPENSER-NON-MOTORIZED",
+          "MOBILE FROZEN DESSERT DISP/NON-MOTORIZED",
+          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTOR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED"
+      },
+      {
+        "from": [
+          "MOBILE FROZEN DESSERTS VENDOR",
+          "MOBILE DESSERTS VENDOR",
+          "MOBILE FOOD DESSERTS VENDOR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MOBILE FROZEN DESSERTS VENDOR"
+      },
+      {
+        "from": [
+          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED",
+          "FROZEN DESSERTS DISPENSER-NON-MOTORIZED",
+          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTOR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED"
+      },
+      {
+        "from": [
+          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED",
+          "MOBILE FROZEN DESSERT DISP/NON-MOTORIZED",
+          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTOR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED"
+      },
+      {
+        "from": [
+          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED",
+          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTOR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED"
+      },
+      {
+        "from": [
+          "GROCERY/DOLLAR STORE",
+          "DOLLAR & GROCERY STORE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "GROCERY/DOLLAR STORE"
+      },
+      {
+        "from": [
           "AFTER SCHOOL PROGRAM",
           "CHURCH/AFTER SCHOOL PROGRAM"
         ],
@@ -8641,30 +9105,12 @@
       },
       {
         "from": [
-          "GROCERY/SERVICE GAS STATION",
-          "SERVICE GAS STATION"
+          "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED",
+          "MOBILE FROZEN DESSERT DISP/NON-MOTORIZED"
         ],
         "fromBlank": false,
         "fromError": false,
-        "to": "GROCERY/SERVICE GAS STATION"
-      },
-      {
-        "from": [
-          "HERBALIFE NUTRITION",
-          "NUTRITION/HERBALIFE"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "HERBALIFE NUTRITION"
-      },
-      {
-        "from": [
-          "MOBILE DESSERTS VENDOR",
-          "MOBILE FOOD DESSERTS VENDOR"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "MOBILE DESSERTS VENDOR"
+        "to": "MOBILE FROZEN DESSERTS DISPENSER-NON-MOTORIZED"
       }
     ],
     "description": "Mass edit cells in column Facility Type"
@@ -8686,6 +9132,15 @@
         "fromBlank": false,
         "fromError": false,
         "to": "1410 S MUSEUM CAMPUS DR"
+      },
+      {
+        "from": [
+          "2646 N MILWAUKEE AVE AVE",
+          "2646 N MILWAUKEE AVE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "2646 N MILWAUKEE AVE"
       },
       {
         "from": [
@@ -8773,27 +9228,6 @@
     "edits": [
       {
         "from": [
-          "2646 N MILWAUKEE AVE AVE",
-          "2646 N MILWAUKEE AVE"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "2646 N MILWAUKEE AVE"
-      }
-    ],
-    "description": "Mass edit cells in column Address"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "columnName": "Address",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
           "641-643 E 47TH ST",
           "641 - 643 E 47TH ST"
         ],
@@ -8830,60 +9264,6 @@
       },
       {
         "from": [
-          "2873-2875 N BROADWAY",
-          "2873 - 2875 N BROADWAY"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "2873-2875 N BROADWAY"
-      },
-      {
-        "from": [
-          "2401-2407 W OGDEN AVE",
-          "2401- 2407 W OGDEN AVE"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "2401-2407 W OGDEN AVE"
-      },
-      {
-        "from": [
-          "3143 W 51ST ST",
-          "3143 W 51 ST ST"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "3143 W 51ST ST"
-      },
-      {
-        "from": [
-          "1419 W 111TH ST",
-          "1419 W 111 TH ST"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "1419 W 111TH ST"
-      },
-      {
-        "from": [
-          "5456 - 5460 S KEDZIE AVE",
-          "5456-5460 S KEDZIE AVE"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "5456-5460 S KEDZIE AVE"
-      },
-      {
-        "from": [
-          "5200-5210 N CICERO AVE",
-          "5200 - 5210 N CICERO AVE"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "5200-5210 N CICERO AVE"
-      },
-      {
-        "from": [
           "115 E 51ST ST",
           "115 E 51 ST ST"
         ],
@@ -8917,15 +9297,6 @@
         "fromBlank": false,
         "fromError": false,
         "to": "1757-1759 W 18TH ST"
-      },
-      {
-        "from": [
-          "3000 -3002 W 26TH ST",
-          "3000-3002 W 26TH ST"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "3000-3002 W 26TH ST"
       },
       {
         "from": [
@@ -8992,6 +9363,78 @@
       }
     ],
     "description": "Mass edit cells in column Address"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "KIDS CAFE",
+          "KIDS CAFE'"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "KIDS CAFE"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "OUT OF BUSINESS",
+          "OUT OFBUSINESS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OUT OF BUSINESS"
+      },
+      {
+        "from": [
+          "TASK FORCE",
+          "TASKFORCE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TASK FORCE"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Inspection Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CANVASS",
+          "CANVAS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CANVASS"
+      }
+    ],
+    "description": "Mass edit cells in column Inspection Type"
   },
   {
     "op": "core/mass-edit",
@@ -9098,116 +9541,5 @@
       }
     ],
     "description": "Mass edit cells in column City"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "columnName": "Inspection Type",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "KIDS CAFE",
-          "KIDS CAFE'"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "KIDS CAFE"
-      }
-    ],
-    "description": "Mass edit cells in column Inspection Type"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "columnName": "Inspection Type",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "OUT OF BUSINESS",
-          "OUT OFBUSINESS"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "OUT OF BUSINESS"
-      },
-      {
-        "from": [
-          "TASK FORCE",
-          "TASKFORCE"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "TASK FORCE"
-      }
-    ],
-    "description": "Mass edit cells in column Inspection Type"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "columnName": "Inspection Type",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "CANVASS SPECIAL EVENTS",
-          "CANVASS/SPECIAL EVENT"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "CANVASS SPECIAL EVENTS"
-      },
-      {
-        "from": [
-          "CANVASS",
-          "CANVAS"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "CANVASS"
-      },
-      {
-        "from": [
-          "LICENSE RE-INSPECTION",
-          "1315 LICENSE REINSPECTION"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "LICENSE RE-INSPECTION"
-      }
-    ],
-    "description": "Mass edit cells in column Inspection Type"
-  },
-  {
-    "op": "core/mass-edit",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "columnName": "Inspection Type",
-    "expression": "value",
-    "edits": [
-      {
-        "from": [
-          "FIRE COMPLAINT",
-          "FIRE/COMPLAIN"
-        ],
-        "fromBlank": false,
-        "fromError": false,
-        "to": "FIRE COMPLAINT"
-      }
-    ],
-    "description": "Mass edit cells in column Inspection Type"
   }
 ]
