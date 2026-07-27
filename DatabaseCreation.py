@@ -1,5 +1,6 @@
 import sqlite3
 import pandas as pd
+import os
 
 def setup_database(cursor: sqlite3.Cursor):
 
@@ -125,6 +126,10 @@ def load():
 	other_names = pd.read_csv(r'Data/Step 2 - Tables/other_names_table.csv')
 
 	database = r'Data/ChicagoFoodInspection.db'
+
+	if os.path.exists(database):
+		os.remove(database)
+
 	conn = sqlite3.connect(database)
 	cursor = conn.cursor()
 	setup_database(cursor)
