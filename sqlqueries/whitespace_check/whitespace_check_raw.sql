@@ -1,0 +1,5 @@
+SELECT COUNT(*)
+  FROM raw
+  WHERE [DBA NAME] LIKE '% '
+	OR [DBA NAME] LIKE ' %'
+	OR [DBA NAME] LIKE '%  %';

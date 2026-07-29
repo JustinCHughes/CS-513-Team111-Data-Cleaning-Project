@@ -1,0 +1,3 @@
+SELECT COUNT(*)
+  FROM violations
+  WHERE VIOLATIONS LIKE '%|%';

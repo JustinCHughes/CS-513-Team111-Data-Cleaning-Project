@@ -1,0 +1,3 @@
+SELECT DISTINCT [CITY]
+  FROM inspections
+  WHERE [CITY] LIKE '%CHI%';

@@ -1,0 +1,2 @@
+SELECT (COUNT(DISTINCT [FACILITY_TYPE]))
+  FROM inspections;

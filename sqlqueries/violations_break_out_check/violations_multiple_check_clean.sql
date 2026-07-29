@@ -1,0 +1,8 @@
+SELECT COUNT(*)
+  FROM (
+	SELECT [INSPECTION_ID],
+		COUNT(*) AS 'COUNT'
+	  FROM violations
+	  GROUP BY [INSPECTION_ID]
+	  HAVING COUNT > 1
+  );
