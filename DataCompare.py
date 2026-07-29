@@ -1,6 +1,6 @@
 import pandas as pd
 
-pre = pd.read_csv(r'Data/Step 0 - pre - Food-Inspections-20251023.csv')
+pre = pd.read_csv(r'Data/Step 0 - Raw - Food-Inspections-20251023.csv')
 post = pd.read_csv(r'Data/Step 1 - After Open Refine Data.csv')
 
 merged_df = pd.merge(
@@ -30,6 +30,7 @@ summary_df = pd.DataFrame(
 
 summary_df = summary_df.sort_values('Number of Differences', ascending=False).reset_index(drop=True)
 
-print("Column Comparison Summary:")
-print("-" * 40)
-print(summary_df.to_string(index=False))
+with open("Data/openrefine_changes_summary.txt", "w") as f:
+    f.write("Column Comparison Summary:\n")
+    f.write("-" * 40 + "\n")
+    f.write(summary_df.to_string(index=False))

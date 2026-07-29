@@ -1,0 +1,19 @@
+Column Comparison Summary:
+----------------------------------------
+         Column  Number of Differences
+Inspection Date                 298869
+        Results                 298869
+           Risk                 298782
+Inspection Type                 298750
+  Facility Type                 289526
+     Violations                 215381
+       DBA Name                  29914
+       AKA Name                  21991
+        Address                  17962
+           City                    779
+      License #                      0
+          State                      0
+            Zip                      0
+       Latitude                      0
+      Longitude                      0
+       Location                      0
